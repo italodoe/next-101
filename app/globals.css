@@ -31,3 +31,10 @@ body {
     text-wrap: balance;
   }
 }
+
+.link{
+  color :rgb(240, 139, 24);
+}
+.hey{
+  color: blueviolet;
+}
